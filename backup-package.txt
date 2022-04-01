@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-http-fetch-static-json",
+  "version": "1.0.0",
+  "description": "Nuxt.js example with @nuxtjs/http  module. Create blog with static json file.",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/http": "0.6.2",
+    "@nuxtjs/color-mode": "1.0.3",
+    "@nuxtjs/tailwindcss": "3.0.0",
+    "nuxt": "2.14.5",
+    "tailwindcss-dark-mode": "1.1.5"
+  },
+  "keywords": []
+}

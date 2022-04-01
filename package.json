@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-http-fetch-static-json",
+  "version": "1.0.0",
+  "description": "Nuxt.js example with @nuxtjs/http  module. Create blog with static json file. Alternative: use Googlesheets api.  Static json in Content module.",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "1.13.1",
+    "@nuxt/http": "0.6.2",
+    "@nuxtjs/color-mode": "1.0.3",
+    "@nuxtjs/tailwindcss": "3.0.0",
+    "nuxt": "2.14.5",
+    "tailwindcss-dark-mode": "1.1.5"
+  },
+  "keywords": []
+}
